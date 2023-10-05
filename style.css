@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&family=Open+Sans&family=Roboto:wght@100&display=swap');
+
+
+body{
+    background-color: #F7FAFE;
+    font-family: 'Lato', sans-serif;
+}
+.custom-card{
+    background-color: #3B77EF;
+}
